@@ -1,0 +1,18 @@
+{
+    "name": "barks",
+    "main": "main.js",
+    "compatibility_date": "2025-03-01",
+    "compatibility_flags": [
+        "nodejs_compat"
+    ],
+    "observability": {
+        "enabled": true
+    },
+    "d1_databases": [
+        {
+            "binding": "database",
+            "database_name": "database",
+            "database_id": "e0480d08-cc04-4a08-99b3-c5de0f2927fc"
+        }
+    ]
+}
